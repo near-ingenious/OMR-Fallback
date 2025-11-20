@@ -152,6 +152,4 @@ Contributions are welcome!
 
 *( MIT License.)*
 
----
 
-If you like, I can **generate a ready-to-paste Markdown file** with this content and also check the repository more thoroughly (list functions, modules, maybe auto-extract dependencies). Would you like me to do that?
